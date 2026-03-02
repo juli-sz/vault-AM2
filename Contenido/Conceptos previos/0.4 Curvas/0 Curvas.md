@@ -1,0 +1,2 @@
+Curvas parametrizadas
+Curvas Suaves

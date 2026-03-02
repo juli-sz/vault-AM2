@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      not:
+        - file.ext == "png"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    sort:
+      - property: file.ext
+        direction: ASC

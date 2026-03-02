@@ -1,0 +1,4 @@
+parciales
+sucesivas
+direccionales
+función diferenciable

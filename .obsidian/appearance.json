@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Dracula for Obsidian",
+  "showRibbon": true,
+  "baseFontSize": 11,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "tema"
+  ]
+}
