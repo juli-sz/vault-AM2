@@ -25,10 +25,14 @@
             "id": "05a75091d8013ba6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Contenido/Temas Final/1 Integral de linea/Integral de linea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integral de linea"
             }
           }
         ],
@@ -55,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -85,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,60 +190,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "05a75091d8013ba6",
   "lastOpenFiles": [
+    "Contenido/Temas Final/1 Integral de linea/Definicion de integral de linea.md",
+    "Contenido/Temas Final/7 Teoremas/Green.md",
+    "Contenido/Temas Final/7 Teoremas/media/Pasted image 20260303221405.png",
+    "Contenido/Temas Final/7 Teoremas/media/Pasted image 20260303221352.png",
+    "Contenido/Temas Final/3 Integral de Superficie/Integral de Superficie.md",
+    "Contenido/Temas Final/3 Integral de Superficie/media/Pasted image 20260303221319.png",
+    "Contenido/Temas Final/3 Integral de Superficie/media/Pasted image 20260303221307.png",
+    "Contenido/Temas Final/3 Integral de Superficie/Superficies paramétricas.md",
+    "Contenido/Temas Final/3 Integral de Superficie/media/Pasted image 20260303221246.png",
+    "Contenido/Temas Final/3 Integral de Superficie/media",
+    "Contenido/Temas Final/4 Integral de flujo/Orientacion de una Superficie.md",
+    "Contenido/Temas Final/4 Integral de flujo/media/Pasted image 20260303221205.png",
+    "Contenido/Temas Final/4 Integral de flujo/Integral de flujo.md",
+    "Contenido/Temas Final/4 Integral de flujo/media/Pasted image 20260303221143.png",
+    "Contenido/Temas Final/4 Integral de flujo/media",
+    "Contenido/Temas Final/7 Teoremas/Stokes.md",
+    "Contenido/Temas Final/7 Teoremas/media/Pasted image 20260303221113.png",
+    "Contenido/Temas Final/7 Teoremas/Divergencia.md",
+    "Contenido/Temas Final/7 Teoremas/media/Pasted image 20260303221054.png",
+    "Contenido/Temas Final/7 Teoremas/media/Pasted image 20260303221045.png",
+    "Contenido/Temas Final/7 Teoremas/media",
+    "Contenido/Temas Final/7 Teoremas/Teoremas.md",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/1. Ecuaciones diferenciales.md",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/media",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/2. EDO 1er Orden/Resumen.md",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/2. EDO 1er Orden/4. Ecuaciones Homogeneas.md",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/2. EDO 1er Orden/5. Ecuación de Bernoulli.md",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/2. EDO 1er Orden/3. Ecuacion Exacta.md",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/2. EDO 1er Orden/2. Ecuaciones Lineales.md",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/2. EDO 1er Orden/1. Variables Separables.md",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/2. EDO 1er Orden/media",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/3. EDO 2do Orden/4. Variacion de parametros.md",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/3. EDO 2do Orden/1. Definición.md",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/3. EDO 2do Orden/3. Coeficientes Indeterminados.md",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/3. EDO 2do Orden/2. Homogeneas con coeficientes constantes.md",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/3. EDO 2do Orden/media",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/EDO 2do Orden.md",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/3. EDO 2do Orden",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/2. EDO 1er Orden",
+    "Contenido/Temas Final/8 Ecuaciones diferenciales/EDO 1er Orden.md",
     "Preguntas/Unidad 5, Integrales Múltiples y de Línea.md",
     "Preguntas/Unidad 6, Curvas en el Espacio.md",
     "Preguntas/Unidad 7, Campos Escalares y Vectoriales.md",
-    "Preguntas/Unidad 3, Derivadas Parciales y Diferencial.md",
-    "Preguntas/Unidad 1.md",
-    "Preguntas/Unidad 2, Límites y Continuidad.md",
-    "Preguntas/Apunte AM2 - Con preguntas de final.md",
-    "Preguntas/Unidad 1/Qué diferencia existe entre 'entorno' y 'entorno reducido' del punto. Dónde se usa, uno u otro concepto.md",
-    "Preguntas/Unidad 8, Ecuaciones Diferenciales Ordinarias (EDO).md",
-    "Preguntas/Unidad 11, Fourier.md",
-    "Preguntas/media/Pasted image 20260225102244.png",
-    "Preguntas/media/Pasted image 20260225102233.png",
     "Preguntas/media",
-    "Preguntas/Unidad 1/Untitled.md",
-    "Preguntas/image1.md",
-    "Preguntas/Unidad 1/Defina el concepto de función de dos variables, concepto de dominio y de imagen. Qué significa que un conjunto sea simplemente conexo.md",
-    "Contenido/Conceptos previos/0.6 Derivadas/0 Derivadas.md",
-    "Contenido/Conceptos previos/0.3 Campos Escalares/Curvas de Nivel.md",
-    "Contenido/Conceptos previos/0.4 Curvas/0 Curvas.md",
-    "Contenido/Conceptos previos/0.3 Campos Escalares/Superficie de Nivel.md",
-    "Contenido/Conceptos previos/0.3 Campos Escalares/0 Campos escalares.md",
-    "Contenido/Conceptos previos/0.2 Vectores/0 Vectores.md",
-    "TEORIA FINAL AMII-AM2.md",
-    "image1.md",
-    "indice.base",
-    "Contenido/Conceptos previos/0.3 Campos Escalares/media/Pasted image 20260127151712.png",
-    "Contenido/Conceptos previos/0.3 Campos Escalares/media",
-    "Contenido/Conceptos previos/0.3 Campos Escalares/media/Pasted image 20260127151605.png",
-    "Contenido/Conceptos previos/0.3 Campos Escalares/media/Pasted image 20260127151547.png",
-    "Contenido/Conceptos previos/0.3 Campos Escalares/media/Pasted image 20260127151457.png",
-    "Contenido/Conceptos previos/0.3 Campos Escalares/media/Pasted image 20260127151438.png",
-    "0. Indice/Indice.md",
-    "Contenido/Conceptos previos/0.2 Vectores/Untitled.base",
-    "Contenido/Conceptos previos/0.1 Espacio Métrico/0 Espacio Métrico.md",
-    "Contenido/Conceptos previos/0.1 Espacio Métrico/1 Distancia.md",
-    "Contenido/Conceptos previos/0.1 Espacio Métrico/2 Entornos e intervalos, punto interior, exterior, frontera.md",
-    "Contenido/Conceptos previos/0.1 Espacio Métrico/media/Pasted image 20260128113748.png",
-    "Contenido/Conceptos previos/0.1 Espacio Métrico/media",
-    "Contenido/Conceptos previos/0.3 Campos Escalares/Función de dos variables.md",
-    "Preguntas/Unidad 1",
-    "Contenido/Conceptos previos/0.7 Maximos y mínimos",
-    "Contenido/Conceptos previos/0.6 Derivadas",
-    "Contenido/Conceptos previos/Untitled.base",
-    "Contenido/Conceptos previos/0.4 Curvas"
+    "indice.base"
   ]
 }
